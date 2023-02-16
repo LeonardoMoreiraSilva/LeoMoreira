@@ -12,3 +12,4 @@
 
 ## 💬 Meus Contatos e Redes
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LeonardoMoreiraSilva)](https://www.linkedin.com/in/leonardocmsilva/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://github.com/LeonardoMoreiraSilva)](https://t.me/leomoreiraS)
