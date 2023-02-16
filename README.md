@@ -10,9 +10,11 @@
 
 🔎 E nas horas vagas sou Programador autodidata ! 
 
+
 ## 💬 Meus Contatos e Redes
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/LeonardoMoreiraSilva)](https://www.linkedin.com/in/leonardocmsilva/)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://github.com/LeonardoMoreiraSilva)](https://t.me/leomoreiraS)
+
 
 ## 🚀 Minhas Skills
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -34,11 +36,11 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+
 ⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/LeonardoMoreiraSilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMoreiraSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMoreiraSilva&layout=compact&langs_count=16&theme=dracula"/><br></a>
 </div>
 
 
