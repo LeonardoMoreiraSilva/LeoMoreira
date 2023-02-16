@@ -45,9 +45,5 @@
     <a href="https://github.com/LeonardoMoreiraSilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMoreiraSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+ithub-snake" src="github-snake.svg">
 ![snake gif](https://github.com/LeonardoMoreiraSilva/LeonardoMoreiraSilva/blob/output/github-contribution-grid-snake.svg)
