@@ -37,7 +37,8 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-⭐ Informações sobre minha conta GitHub
+
+##⭐ Informações sobre minha conta GitHub
 <div>
     <a href="https://github.com/LeonardoMoreiraSilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMoreiraSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
