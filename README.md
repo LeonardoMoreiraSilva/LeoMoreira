@@ -40,8 +40,8 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoMoreiraSilva&theme=github_dark)
-<div>
 
+<div>
     <a href="https://github.com/LeonardoMoreiraSilva">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMoreiraSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
